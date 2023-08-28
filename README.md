@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Flutuar é a Recriação do layout de uma aplicação, uma Landing-Page básica para aplicar o conhecimento básico do HTML e CSS.
-- [Visite o projeto online](https://lucasrsillva2000.github.io/Projeto-01-explorer-desafio02/)
+- [Visite o projeto online](https://rosanacsoares.github.io/Flutuar-desafio02/)
 
 ## 🔖 Layout
 
