@@ -10,7 +10,7 @@ O Explorer é um programa completo que reúne tudo o que você precisa para dese
 <br>
 
 <p align="center">
-  <img alt="projeto Flutuar" src="Desktop.png" width="100%">
+  <img alt="projeto Flutuar" src="https://raw.githubusercontent.com/Lucasrsillva2000/Projeto-01-explorer-desafio02/main/.github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
